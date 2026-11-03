@@ -6,9 +6,9 @@ Welcome to the **Data Structures and Algorithms Laboratory** submission reposito
 
 ## 📌 Student Details
 
-- **Name:** Sushrut Kale
+- **Name:** Saundarya Khade
 - **Course:** Data Structures & Algorithms Lab
-- **Repository:** [Sushrut-Kale/DSA_Lab](https://github.com/Sushrut-Kale/DSA_Lab)
+- **Repository:** [saundaryakhade/DSA_Lab](https://github.com/saundaryakhade/DSA_Lab)
 
 ---
 
